@@ -3,3 +3,5 @@ env/
 secrets.py
 hello.py
 samplecode.py
+.pyc
+__pycache__/
