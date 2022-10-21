@@ -5,3 +5,4 @@ hello.py
 samplecode.py
 .pyc
 __pycache__/
+.Ds_Store
